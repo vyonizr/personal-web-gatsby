@@ -15,11 +15,11 @@ const characters = [
     links: [
       {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/fitrahtur-rahman/",
+        url: "https://www.linkedin.com/in/fitrahtur-rahman",
       },
       {
         name: "blog",
-        url: "https://blog.vyonizr.com/",
+        url: "https://blog.vyonizr.com",
       },
     ],
   },
@@ -62,7 +62,11 @@ const characters = [
     links: [
       {
         name: "steam",
-        url: "https://steamcommunity.com/id/vyonizr/",
+        url: "https://steamcommunity.com/id/vyonizr",
+      },
+      {
+        name: "youtube",
+        url: "https://www.youtube.com/channel/UCO0cPTWxp6z7dtFume1DHWA",
       },
     ],
   },
