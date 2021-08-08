@@ -15,11 +15,11 @@ const characters = [
     links: [
       {
         name: "linkedin",
-        url: "https://www.linkedin.com/in/fitrahtur-rahman/",
+        url: "https://www.linkedin.com/in/fitrahtur-rahman",
       },
       {
         name: "blog",
-        url: "https://blog.vyonizr.com/",
+        url: "https://blog.vyonizr.com",
       },
     ],
   },
@@ -37,8 +37,12 @@ const characters = [
         url: "https://music.apple.com/us/artist/vyonizr/818525307",
       },
       {
-        name: "youtube",
-        url: "https://www.youtube.com/channel/UCf5J9KJQsHHiVFWokEnegqg",
+        name: "youtube music",
+        url: "https://music.youtube.com/channel/UCYKj3afAp5B939DXxPTvknA",
+      },
+      {
+        name: "bandcamp",
+        url: "https://vyonizr.bandcamp.com",
       },
     ],
   },
@@ -62,7 +66,11 @@ const characters = [
     links: [
       {
         name: "steam",
-        url: "https://steamcommunity.com/id/vyonizr/",
+        url: "https://steamcommunity.com/id/vyonizr",
+      },
+      {
+        name: "youtube",
+        url: "https://www.youtube.com/channel/UCO0cPTWxp6z7dtFume1DHWA",
       },
     ],
   },
