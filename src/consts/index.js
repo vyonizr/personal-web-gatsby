@@ -37,8 +37,12 @@ const characters = [
         url: "https://music.apple.com/us/artist/vyonizr/818525307",
       },
       {
-        name: "youtube",
-        url: "https://www.youtube.com/channel/UCf5J9KJQsHHiVFWokEnegqg",
+        name: "youtube music",
+        url: "https://music.youtube.com/channel/UCYKj3afAp5B939DXxPTvknA",
+      },
+      {
+        name: "bandcamp",
+        url: "https://vyonizr.bandcamp.com",
       },
     ],
   },
