@@ -18,6 +18,10 @@ const characters = [
         url: "https://www.linkedin.com/in/fitrahtur-rahman",
       },
       {
+        name: "projects",
+        url: "https://linktr.ee/vyonizr",
+      },
+      {
         name: "blog",
         url: "https://blog.vyonizr.com",
       },
@@ -78,6 +82,10 @@ const characters = [
     role: "a visual hobbyist",
     avatar: visualHobbyist,
     links: [
+      {
+        name: "behance",
+        url: "https://www.behance.net/vyonizr",
+      },
       {
         name: "vsco",
         url: "https://vsco.co/vyonizr/gallery",
