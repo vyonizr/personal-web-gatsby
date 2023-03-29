@@ -23,7 +23,7 @@ const characters = [
       },
       {
         name: "blog",
-        url: "https://blog.vyonizr.com",
+        url: "https://vyonizr.medium.com/",
       },
     ],
   },
@@ -69,10 +69,6 @@ const characters = [
     avatar: gamer,
     links: [
       {
-        name: "steam",
-        url: "https://steamcommunity.com/id/vyonizr",
-      },
-      {
         name: "youtube",
         url: "https://www.youtube.com/channel/UCO0cPTWxp6z7dtFume1DHWA",
       },
@@ -89,10 +85,6 @@ const characters = [
       {
         name: "vsco",
         url: "https://vsco.co/vyonizr/gallery",
-      },
-      {
-        name: "deviantart",
-        url: "https://www.deviantart.com/vyonizr",
       },
     ],
   },
